@@ -1,50 +1,97 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f1691&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a3d91&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f1691&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Arnaldo+Lima+;I'm+a+Web+and+Mobile+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arnaldolima1&show_icons=true&count_private=false&hide_border=true&title_color=3f1691&icon_color=5f35b5&text_color=c9d1d9&bg_color=0d1117" alt="Arnaldo Lima github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldolima1&layout=compact&hide_border=true&title_color=5f35b5&text_color=5f35b5&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arnaldolima1&bg_color=000000&color=5f35b5&line=9168e3&point=210952&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<h1 align="center">Hey, I'm Arnaldo Lima 💙</h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnaldolima1&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A3D91&center=true&vCenter=true&width=800&lines=Web+%26+Mobile+Developer;Building+impactful+digital+experiences;Driven+by+excellence+and+innovation" alt="Typing SVG" />
 </p>
 
- 
-### Main skills:
-
-![Node.JS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
-![React.js](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)&nbsp;
-![NextJs](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)&nbsp;
-![Expo](https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white)&nbsp;
-
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=VSCodium&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
- 
-### Other Knowledge:
-
-![ShadcnUI](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white)&nbsp;
-![NextUI](https://img.shields.io/badge/NextUI-000000.svg?style=for-the-badge&logo=NextUI&logoColor=white)&nbsp;
-![PosgresQl](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
-![MySQL  ](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)&nbsp;
-  
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{arnaldolima1}/count.svg" /></p> 
-<br></div>
 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arnaldolima1&show_icons=true&theme=blue&hide_border=true" />
+  <br><br>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnaldolima1&theme=blue&hide_border=true" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f1691&height=120&section=footer"/>
+</div>
 
+## 🛠️ &nbsp;Main Technologies
+
+<div align="center">
+  <br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mysql,mongodb,redis,docker,git,linux,figma,expo&theme=light" />
+  <br><br>
+</div>
+
+## 👑 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arnaldolima1&theme=algolia&no-frame=true&margin-w=10" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+> “Technology is only meaningful when it transforms lives.”  
+> <sub>— Arnaldo Lima</sub>
+
+- 🎓 Bachelor in Systems Analysis and Development (UNIFACEMA, Caxias - MA, Brazil)
+- 💡 Passionate about technology, always ready for new challenges, and focused on delivering results!
+- 🌱 Currently building my personal portfolio website (coming soon!)
+- 🤝 Open to exciting new projects and collaborations
+
+---
+
+## 💬 What drives me
+
+- ⏰ Commitment to deadlines and quality
+- 🗣️ Clear and transparent communication
+- 📚 Continuous learning and improvement
+- 🤝 Teamwork and collaboration
+- 🧭 Responsibility and ethics in every project
+
+---
+
+## 🖥️ My System (Arch Linux Style)
+
+```
+ 15:30
+ : All I wanna say is that they don't s
+┌────────────────────────────────────────┐
+ 󰇺 Chassis : Desktop Micro-Star Internat0
+ 󰣇 OS      : Arch Linux
+  Kernel  : 6.15.7-arch1-1
+ 󰏗 Packages: 754 (pacman), 37 (flatpak)
+ 󰍹 Display : 2560x1080 @ 75Hz [External]
+  Terminal : kitty 0.42.2
+ 󱗃 WM      : Hyprland
+└────────────────────────────────────────┘
+
+ : arnaldo @ arch
+┌────────────────────────────────────────┐
+  CPU      : AMD Ryzen 7 5700G @ 4.67 GHz
+ 󰊴 GPU      : AMD Radeon Vega Series / RX 580
+  GPU Driver: amdgpu
+  Memory   : 2.56 GiB / 27.29 GiB (20%)
+ 󱦟 OS Age   : 0 days
+ 󱫐 Uptime   : 2 hours, 56 mins
+└────────────────────────────────────────┘
+● ● ● ● ● ● ● ●
+```
+
+---
+
+## 📫 Let's connect!
+
+<p align="center">
+  <a href="mailto:arnaldolimaof@gmail.com"><img src="https://img.shields.io/badge/E--mail-0A3D91?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://a2syncode.com"><img src="https://img.shields.io/badge/Portfolio-0A3D91?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
+
+---
+<p align="center">
+  <b>Thanks for visiting! Let's build something amazing together. 💙🚀</b>
+  <br>
+  <sub>Feel free to fork, star or reach out for collaboration!</sub>
+</p>
+
+---
